@@ -27,14 +27,14 @@
 ## Objetivos
  𝕆𝕓𝕛𝕖𝕥𝕚𝕧𝕠𝕤 ✍(◔◡◔)
 
-1. Realizar de mejor manera mis codigos "SER MAS ORDENADO"
+1. Realizar mis códigos de manera más organizada.
 
-2. Comprender de mejor manera las explicaciones del profesor y seguir sus recomendaciones.
+2. Entregar todas mis tareas a tiempo, darle vida a todos mis proyectos.
 
-3. Adquirir mayor conocimiento de los temas visto no solo de parte de maestro si no que de otras partes.
+3. Poner atención, analizar mejor todos los temas.
  
 
 ## Trabajo
 𝕋𝕣𝕒𝕓𝕒𝕛𝕠 (⌐■_■)
-Lo que se trabajo en este proyecto del tercer periodo fue una pagina responsibe en codigo HTML Y CSS el cual fue llamado batabit y tuvimos que adapatarlo a diferentes platarmas las cuales eran: escritorio, teléfono y tablet.
+El trabajo realizado en el proyecto fue un responsive en codigo HTML Y CSS de la página "BATABIT", la cual debimos adapatarla a diferentes medidas las cuales eran: escritorio, teléfono y tablet.
 
