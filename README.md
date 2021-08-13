@@ -36,5 +36,6 @@
 
 ## Trabajo
 𝕋𝕣𝕒𝕓𝕒𝕛𝕠 (⌐■_■)
+
 El trabajo realizado en el proyecto fue un responsive en codigo HTML Y CSS de la página "BATABIT", la cual debimos adapatarla a diferentes medidas las cuales eran: escritorio, teléfono y tablet.
 
