@@ -1,4 +1,4 @@
-# PORTAFOLIO--III---2021
+![scl](https://user-images.githubusercontent.com/69003016/129340058-7d752c64-b23a-450e-a4dd-13266d5d2a49.png) # PORTAFOLIO--III---2021
 Colegio: Santa Catalina Laboure  
 Nombre: Joselyn Gabriela Andrea Xajil Cuy   
 Carrera: V Bachillerato en Ciencias y Letras con orientación en Diseño Gráfico  
@@ -22,3 +22,5 @@ Profesor:Jossue Emmanuel Fuentes
 ーAdquirir mayor conocimiento de los temas visto no solo de parte de maestro si no que de otras partes.
  
 (⌐■_■) 𝕋𝕣𝕒𝕓𝕒𝕛𝕠 
+Lo que se trabajo en este proyecto del tercer periodo fue una pagina responsibe en codigo HTML Y CSS el cual fue llamado batabit y tuvimos que adapatarlo a diferentes platarmas las cuales eran: escritorio, teléfono y tablet.
+
