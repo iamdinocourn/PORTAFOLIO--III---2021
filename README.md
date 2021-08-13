@@ -5,7 +5,7 @@ Carrera: V Bachillerato en Ciencias y Letras con orientación en Diseño Gráfic
 Curso: Diseño Computarizado II  
 Profesor:Jossue Emmanuel Fuentes  
 
-༼ つ ◕_◕ ༽つ Í𝕟𝕕𝕚𝕔𝕖  
+༼ つ ◕_◕ ༽つ #Í𝕟𝕕𝕚𝕔𝕖  
 ーPortada 
 ーAnteportada 
 ーÍndice 
@@ -14,13 +14,13 @@ Profesor:Jossue Emmanuel Fuentes
       ●Batatabit / versión tablet 
       ●Batatabit / versión computadora
 
-✍(◔◡◔) 𝕆𝕓𝕛𝕖𝕥𝕚𝕧𝕠𝕤
+✍(◔◡◔) #𝕆𝕓𝕛𝕖𝕥𝕚𝕧𝕠𝕤
 ーRealizar de mejor manera mis codigos "SER MAS ORDENADO"
 
 ーComprender de mejor manera las explicaciones del profesor y seguir sus recomendaciones.
 
 ーAdquirir mayor conocimiento de los temas visto no solo de parte de maestro si no que de otras partes.
  
-(⌐■_■) 𝕋𝕣𝕒𝕓𝕒𝕛𝕠 
+(⌐■_■) #𝕋𝕣𝕒𝕓𝕒𝕛𝕠 
 Lo que se trabajo en este proyecto del tercer periodo fue una pagina responsibe en codigo HTML Y CSS el cual fue llamado batabit y tuvimos que adapatarlo a diferentes platarmas las cuales eran: escritorio, teléfono y tablet.
 
