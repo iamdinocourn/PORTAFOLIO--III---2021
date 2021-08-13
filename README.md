@@ -5,19 +5,20 @@ Carrera: V Bachillerato en Ciencias y Letras con orientación en Diseño Gráfic
 Curso: Diseño Computarizado II  
 Profesor:Jossue Emmanuel Fuentes  
 
-Índice  
--Portada 
--Anteportada 
--Índice 
--Objetivos 
+༼ つ ◕_◕ ༽つ Í𝕟𝕕𝕚𝕔𝕖  
+ーPortada 
+ーAnteportada 
+ーÍndice 
+ーObjetivos 
       ●Batabit Batatabit / teléfono 
       ●Batatabit / versión tablet 
       ●Batatabit / versión computadora
 
-Objetivos
+✍(◔◡◔) 𝕆𝕓𝕛𝕖𝕥𝕚𝕧𝕠𝕤
+ーRealizar de mejor manera mis codigos "SER MAS ORDENADO"
 
-Realizar de mejor manera mis codigos "SER MAS ORDENADO"
+ーComprender de mejor manera las explicaciones del profesor y seguir sus recomendaciones.
 
-Comprender de mejor manera las explicaciones del profesor y seguir sus recomendaciones.
-
-Adquirir mayor conocimiento de los temas visto no solo de parte de maestro si no que de otras partes.
+ーAdquirir mayor conocimiento de los temas visto no solo de parte de maestro si no que de otras partes.
+ 
+(⌐■_■) 𝕋𝕣𝕒𝕓𝕒𝕛𝕠 
