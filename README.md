@@ -18,7 +18,9 @@
 - Anteportada
 - Índice
 - Objetivos
--Portafolio
+- Portafolio
+- Trabajo
+- Objetivos Futuros
 
 
 ## Objetivos
