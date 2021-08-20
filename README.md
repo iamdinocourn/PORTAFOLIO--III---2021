@@ -1,4 +1,4 @@
-![scl](https://user-images.githubusercontent.com/69003016/129340058-7d752c64-b23a-450e-a4dd-13266d5d2a49.png) 
+<img width="170px" src="https://static.wixstatic.com/media/d1b317_30d85a06c73e4bc7bf0952829a1cddb1~mv1.png/v1/crop/x_0,y_4,w_775,h_349/fill/w_408,h_172,al_c,q_85,usm_0.66_1.00_0.01/d1b317_30d85a06c73e4bc7bf0952829a1cddb1~mv1.webp">
 ## PORTAFOLIO--III---2021
 
 **Colegio:** Santa Catalina Laboure (SCL)
@@ -7,7 +7,7 @@
 
 **Carrera:** V Bachillerato en Ciencias y Letras con orientación en Diseño Gráfico
 
-**Curso:** Diseño Computarizado II
+**Curso:** Diseño y Expresión Gráfica II
 
 **Profesor** Jossue Emmanuel Fuentes
 
@@ -18,10 +18,7 @@
 - Anteportada
 - Índice
 - Objetivos
-- Batabit
-  -  Batatabit / teléfono
-  -  Batatabit / versión tablet
-  -  Batatabit / versión computadora
+-Portafolio
 
 
 ## Objetivos
@@ -36,12 +33,10 @@
 
 ## Trabajo
 𝕋𝕣𝕒𝕓𝕒𝕛𝕠 (⌐■_■)
-
-El trabajo realizado en el proyecto fue un responsive en codigo HTML Y CSS de la página "BATABIT", la cual debimos adapatarla a diferentes medidas las cuales eran: escritorio, teléfono y tablet.
-
+El trabajo realizado fue la presentación de un portafolio personal con toda la evidencia del proceso creativo para la realización del mismo.
 
 ## Conclusión
-La realización de todo el proyecto de batabit fue un poco tedioso pero contenía lo necesario.
+Debía juntar las dos ramas de nuestra carrera Diseño Y códio lo cual se me dificulto demasiado porque quería hacer algo diferente.
 
 ## Objetivos Futuros
  
